@@ -1,2 +1,16 @@
-# Gerador-de-QR-Code
-Exercício proposto que gera QR Codes instantaneamente a partir de textos ou URLs informados pelo utilizador, com validação de campo vazio.
+# 📱 Gerador de QR Code
+
+Um gerador de QR Code simples e interativo construído com HTML, CSS e JavaScript.
+
+## 🚀 Funcionalidades
+
+- **Geração Instantânea:** Transforma qualquer texto ou link em QR Code.
+- **Validação de Entrada:** Efeito visual (*shake*) caso tente gerar sem preencher o campo.
+- **Design Limpo:** Interface simples e responsiva.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML**
+- **CSS**
+- **JavaScrip**
+- **API:** [QR Server API](https://goqr.me/api/)
